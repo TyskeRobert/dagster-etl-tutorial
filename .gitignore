@@ -1,1 +1,4 @@
 .dagster_tutorial
+.tmp_dagster_*
+
+*/__pycache__

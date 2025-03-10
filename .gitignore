@@ -2,3 +2,5 @@
 .tmp_dagster_*
 
 */__pycache__
+
+mydb.duckdb
